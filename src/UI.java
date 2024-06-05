@@ -1,4 +1,4 @@
-import entities.chess.ChessPiece;
+import chess.ChessPiece;
 
 public class UI {
 

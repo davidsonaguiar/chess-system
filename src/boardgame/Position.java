@@ -1,4 +1,4 @@
-package entities.boardgame;
+package boardgame;
 
 public class Position {
     private Integer column;
